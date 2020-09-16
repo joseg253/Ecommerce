@@ -1,0 +1,21 @@
+.footer {
+  background-color: #131921;
+  padding-top: 3rem;
+  width: 100%;
+
+  color: white;
+}
+.footer__row {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 30px;
+}
+.list {
+  text-align: left;
+  font-size: small;
+}
+.title {
+  text-align: center;
+  padding-bottom: 10px;
+}
